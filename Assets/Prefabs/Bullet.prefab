@@ -49,6 +49,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -143,5 +144,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e53e0a33b261bb54aa5487979dffdc9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitEffect: {fileID: 7636707344142490062, guid: 8fcf535c420982b4f96cc30211ec075a,
+  HitEffect: {fileID: 7636707344142490062, guid: 8fcf535c420982b4f96cc30211ec075a,
     type: 3}
